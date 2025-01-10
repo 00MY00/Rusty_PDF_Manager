@@ -1,0 +1,27 @@
+[package]
+name = "Rusty_PDF_Manager"
+version = "0.1.0"
+authors = ["Holdigaz-SA"]
+edition = "2021"
+description = "Un outil puissant pour annoter les fichiers PDF."
+build = "build.rs"
+license = "GNU2"
+
+[dependencies]
+printpdf = "0.5.0"
+lopdf = "0.34.0"
+native-dialog = "0.6"
+walkdir = "2.3"
+egui = "0.22"
+eframe = "0.22"
+rfd = "0.11"
+ttf-parser = "0.14"  # Version courante à vérifier sur crates.io
+image = "0.24"
+regex = "1.7"
+
+[build-dependencies]
+embed-resource = "1.8"
+fs_extra = "1.2"
+
+[profile.release]
+debug = false
