@@ -102,4 +102,4 @@ I'application permet d'ajouter des `annotations` à des fichiers PDF de manière
 ---
 
 ### 🖱️ Lien de téléchargement
-[![Télécharger le code](https://img.shields.io/badge/Télécharger-Code-blue?style=for-the-badge)](https://github.com/00MY00/Rusty_PDF_Manager/raw/refs/heads/main/Compiled/Windows/Rusty_PDF_Manager%20-%20Windows.7z)
+[![Télécharger le code](https://img.shields.io/badge/Télécharger-Code-blue?style=for-the-badge)](https://github.com/00MY00/Rusty_PDF_Manager/releases/tag/V-0.1.0)
